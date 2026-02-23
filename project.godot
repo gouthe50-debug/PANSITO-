@@ -1,0 +1,12 @@
+[general]
+config_version=4
+
+[renderer] 
+vulkan_enabled=false
+
+[display]
+window_size=1280,720
+vsync=true
+
+[input]
+accepts_mouse_input=true
