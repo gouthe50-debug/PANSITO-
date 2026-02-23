@@ -1,0 +1,15 @@
+# Godot 3.0
+*.gdasm
+*.godot
+*.import/
+*.tmp/
+
+# Godot 4.0
+*.gd
+*.gd.*
+
+# User-specific files
+*.user.ini
+
+# Logs
+*.log
